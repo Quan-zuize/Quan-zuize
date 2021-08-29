@@ -15,7 +15,7 @@
 - 💬 Ask me about everything you want
 - 📫 How to reach me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/minis.ter.26/"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/26.quan_/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
-- ⚡ Fun fact: I love basketball, animals and enjoying landscape
+- ⚡ Fun fact: I love basketball, animals and playing many things
 
 ![image](https://user-images.githubusercontent.com/61816583/126866435-86ade3f4-f0ae-496c-80f8-f5e632534a58.png)
 ![image](https://user-images.githubusercontent.com/61816583/126866439-a2387833-d5b4-44d5-a728-2d3a2c445d19.png)
