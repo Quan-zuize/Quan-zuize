@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently the senior student in high school Aptech
 - 🌱 I've just been learning IT for 3 years
-- 👯 I’m looking to collaborate on creating website
+- 👯 I’m looking to collaborate on creating web/app
 - 🤔 I’m looking for help with reaching 7.0 ielts
 - 💬 Ask me about everything you want
 - 📫 How to reach me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/minis.ter.26/"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
