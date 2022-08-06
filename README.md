@@ -9,7 +9,7 @@
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 
 - 🔭 I’m currently the senior student in high school Aptech
-- 🌱 I've just been learning IT for 2 years
+- 🌱 I've just been learning IT for 3 years
 - 👯 I’m looking to collaborate on creating website
 - 🤔 I’m looking for help with reaching 7.0 ielts
 - 💬 Ask me about everything you want
