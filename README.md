@@ -28,4 +28,4 @@
 ![image](https://user-images.githubusercontent.com/61816583/126865560-5437831c-d892-4e2d-9617-17bcdb48ba3f.png)
 ![image](https://user-images.githubusercontent.com/61816583/126901065-f832f09a-b924-4eac-add0-d7836f77d87c.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quan-zuize&layout=compact)](https://github.com/Quan-zuize/github-readme-stats)
