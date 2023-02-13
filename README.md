@@ -8,7 +8,7 @@
 
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 
-- 🔭 I’m currently the senior student in high school Aptech
+- 🔭 I’m currently the freshmen in Lincoln University College
 - 🌱 I've just been learning IT for 3 years
 - 👯 I’m looking to collaborate on creating web/app
 - 🤔 I’m looking for help with reaching 7.0 ielts
