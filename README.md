@@ -8,9 +8,9 @@
 
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 
-- 🔭 I’m currently the sophomore in Lincoln University College
-- 🌱 I've just been learning IT for 4 years, and by 1 year exp in Vnpay
-- 👯 I’m looking to collaborate on creating web/app
+- 🔭 I have graduated in Lincoln University College
+- 🌱 I've just been learning IT for 4 years, and by 1 year exp in VNPAY
+- 👯 I’m looking to collaborate on creating web/system
 - 🤔 I’m looking for help with reaching 7.5 ielts
 - 💬 Ask me about everything you want
 - 📫 How to reach me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/minis.ter.26/"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
